@@ -11,3 +11,7 @@ Ahora instalamos los mofulos de Facturación y Ventas:
 
 ## Ejercicio 1
 <img width="1006" height="512" alt="image" src="https://github.com/user-attachments/assets/b11775cf-f541-476a-808b-19cd56bfb420" />
+
+## Ejercicio 2
+<img width="1010" height="513" alt="image" src="https://github.com/user-attachments/assets/4287ac11-c6fa-482b-a634-c7a3220c362f" />
+
